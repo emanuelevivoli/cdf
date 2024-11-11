@@ -1,16 +1,10 @@
 # The Comics Datasets Framework
 
+[![arXiv](https://img.shields.io/badge/arXiv-2407.03540-b31b1b.svg)](https://arxiv.org/abs/2407.03540)
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emanuelevivoli/CoMix)
+
 Framework for mixing Comics datasets, existing and new, with dense and curated annotations.
 
-## Structure
-In the main repository, there will be released:
-- [ ] instruction to get the datasets (DCM772, comics100, PopManga, eBDtheque, Manga109)
-- [ ] main code for unifying existing annotations
-- [ ] converters to UCA
-- [ ] converters to/from CVAT, COCO, YOLO
-
-As part of the following code, we will release:
-- [ ] detection annotations (for train split) for the above datasets (curated by authors)
-- [ ] code and weights for Faster R-CNN, YOLO finetuned models
-- [ ] code to evaluate the above models, and the existing Magi, DASS, and GroundingDINO
-- [ ] evaluation server for performance evaluation :)
+The code for this repo has been included in [CoMix](https://github.com/emanuelevivoli/CoMix). 
+Please, check it out and give it a ✨ star 🌟 !
