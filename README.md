@@ -10,4 +10,4 @@ The code for this repo has been included in [CoMix](https://github.com/emanuelev
 Please, check it out and give it a ✨ star 🌟 !
 
 ## Acknowledgments
-Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page and [Academic project page template](https://github.com/eliahuhorwitz/Academic-project-page-template).
+Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page and [Academic project page template](https://github.com/eliahuhorwitz/Academic-project-page-template). Refer to them for Website licenses.
